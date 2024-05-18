@@ -6,3 +6,7 @@ background-position: right top;
 background-attachment: fixed;
 background-color: rgb(253, 180, 128);
 }
+
+video{
+  width: 100%
+}
