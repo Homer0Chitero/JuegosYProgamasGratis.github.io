@@ -1,12 +1,14 @@
 body{
-
-background-image: url(background.webp);
-background-repeat: no-repeat;
-background-position: right top;
-background-attachment: fixed;
-background-color: rgb(253, 180, 128);
-}
-
-video{
-  width: 100%
+background-color: #000;
+    background-image: url(background.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: normal;
+    user-select: none;
+    overflow: hidden;
 }
