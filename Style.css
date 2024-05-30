@@ -4,11 +4,3 @@ background-color: #f71000;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100vh;
-    margin: 0;
-    font-family: Inter;
-    font-weight: 500;
-    line-height: normal;
-    user-select: none;
-    overflow: hidden;
-}
