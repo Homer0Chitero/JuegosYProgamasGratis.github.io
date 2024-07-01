@@ -1,6 +1,6 @@
 body{
-background-color: #f71000;
-    background-image: url (https://i.ibb.co/DrVJfyH/background.png)
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+background-image:  repeating-radial-gradient(circle at 0 0, transparent 0, #47d3ff 100px), repeating-linear-gradient(#474bff, #474bff);
+background-color: #47d3ff;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
