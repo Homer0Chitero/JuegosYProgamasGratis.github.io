@@ -1,5 +1,6 @@
 body{
 background-image:  repeating-radial-gradient(circle at 0 0, transparent 0, #47d3ff 100px), repeating-linear-gradient(#474bff, #474bff);
+font-family: sans-serif;
 background-color: #47d3ff;
 background-size: cover;
 background-repeat: no-repeat;
